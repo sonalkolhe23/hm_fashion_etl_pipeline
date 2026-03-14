@@ -1,1 +1,0 @@
-# hm_fashion_etl_pipeline
