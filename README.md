@@ -2,6 +2,8 @@
 ### Masters Final Project — PostgreSQL On-Premise ETL
 
 ---
+Dataset Notice
+The datasets are not included due to GitHub’s 100 MB file limit. Please download the required files from Kaggle and place them in the folders below before running the pipeline.
 
 ## Overview
 
